@@ -1,0 +1,8 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "editor.mouseWheelZoom": true,
+    "editor.fastScrollSensitivity": 100,
+    "bookmarks.sideBar.expanded": true,
+    "explorer.incrementalNaming": "smart",
+    "debug.javascript.codelens.npmScripts": "all"
+}
